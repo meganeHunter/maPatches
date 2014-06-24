@@ -1,0 +1,11 @@
+{
+	"preset_data" : [ 		{
+			"number" : 1,
+			"data" : [ 5, "obj-28", "number", "int", -1, 5, "obj-38", "number", "int", -7, 5, "obj-41", "number", "int", -9, 5, "obj-23", "number", "int", 1, 5, "obj-9", "number", "int", 300, 5, "obj-7", "number", "int", 400 ]
+		}
+, 		{
+			"number" : 2,
+			"data" : [ 5, "obj-28", "number", "int", -1, 5, "obj-38", "number", "int", -7, 5, "obj-41", "number", "int", -9, 5, "obj-23", "number", "int", 2, 5, "obj-9", "number", "int", 724, 5, "obj-7", "number", "int", 1367 ]
+		}
+ ]
+}
